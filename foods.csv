@@ -1,0 +1,474 @@
+Name,Predicted Expiration (Days)
+Aioli,7
+Almond extract,720
+Almond oil,360
+Amaranth,150
+Apple cider,14
+Apple juice,2.5
+Apricots,4
+Arugula,5
+Asparagus,4
+Avocado Oil,150
+Baby carrots,10
+Bacon,6
+Bacon bits,5
+Bacon grease,120
+Bagged greens,4
+Baking powder,180
+Baking soda,180
+Balsamic vinegar,360
+Bamboo shoots,6
+Bananas,6
+Barbecue Sauce,270
+Barbecue sauce,270
+Barley,4
+Basil,14
+Bean sprouts,14
+Beans,3.5
+Beef,4
+Beef broth/stock/consommรฉ ,3.5
+Beets,21
+Berries,6
+Bison,4
+Black bean sauce,720
+Blueberries,6
+Bok choy,5
+Bratwurst,3.5
+Bread,10
+Breadcrumbs,30
+Brussels sprouts,5
+Buckwheat,90
+Bulgur,4
+Butter,60
+Buttermilk,14
+Cabbage,30
+Cajun seasoning blend ,720
+Canadian bacon,3.5
+Canned chicken,6
+Cantaloupe,5
+Capers,720
+Capon,3.5
+Carrot juice,1.5
+Cauliflower,4
+Caviar,30
+Celery,21
+Celery root,10
+Cereal,3.5
+Cheesecake,3.5
+Cherimoya,4
+Chia seeds,720
+Chicken,3.5
+Chicken broth/stock/consommรฉ ,3.5
+"Chicken nuggets, patties",3.5
+Chicken parts,1.5
+Chiffon pies,3.5
+Chives,10
+Chocolate,360
+Chocolate syrup,360
+Chorizo,14
+Chutney,6
+Cilantro,7
+Cinnamon,720
+Cinnamon extract,720
+Cocoa and cocoa mixes,60
+Coconut,4
+Coconut flavor,180
+Coffee,3.5
+Coleslaw,5
+Cooked fish,3.5
+Cooked pasta,4
+Cooked rice,3.5
+Cooked shellfish,2
+Cookie dough,3
+Cookies,60
+Corned beef,3.5
+Cottage cheese,6
+Crab meat,4
+Cranberry sauce,10
+Cream,30
+Cream cheese,30
+Cumin,720
+Dough,3
+Doughnuts,1.5
+Dry egg noodles,30
+Duck fat,30
+Duckling,14
+Edamame,1.5
+Egg salad,4
+Eggnog,2.5
+Eggs,30
+Farro,5
+Fatty fish,3.5
+Fish,3.5
+Flaxseed,360
+Flour,360
+Fresh whole lobster,1.5
+Fried chicken,3.5
+Fruit cake,90
+Frying oil,30
+Garam masala,180
+Garlic,7
+Gelatin,10
+Ghee,360
+Giblets,1.5
+Ginger root,30
+Goat,1.5
+Goose,1.5
+Graham cracker/animal cracker,30
+Gravy,3.5
+Greens,4
+Grits,6
+Guacamole,3.5
+Guava,14
+Ham,60
+Ham ,60
+Ham salad,4
+Herring,14
+Hoisin sauce,180
+Honeydew,7
+Horseradish,120
+Hot peppers,14
+Hot sauce,720
+Hummus,7
+Ice cream,60
+Jerky,10
+Jicama,7
+Kale,7
+Kefir,7
+"Ketchup, cocktail, or chili sauce",180
+Kimchi,270
+Kohlrabi,7
+Kugel,2.5
+Lamb,4
+Lean fish,1.5
+Lemon extract,720
+Lemon juice,4
+Lettuce,14
+Margarine,150
+Marinades,180
+Marshmallows,60
+Mayonnaise,60
+Milk,14
+Milk ,14
+Millet,120
+Mint,90
+Miso,360
+Molasses,360
+Mung bean,5
+Mustard,360
+Nectar,720
+Nutmeg,720
+Oats,5
+Okra,2.5
+Oregano,10
+Oyster sauce,720
+Parsley,10
+Pasta salad,4
+Pastrami,4
+Pate,14
+"Peaches, nectarines, plums, pears, sapote",4
+Peanut butter,120
+Pectin,30
+Pesto,3
+Pheasant,3
+Pickles,720
+Pies,4
+Pimento cheese,30
+Pizza,4
+Polenta,5
+Pomegranate,60
+Popcorn,21
+Pork,4
+Potato chips,30
+Potato salad,5
+Potatoes,30
+Poultry pieces,1.5
+Prosciutto,360
+Pudding,1.5
+Pure vanilla extract,720
+Quail,4
+Quark,10
+Quiche,3.5
+Quinoa,5
+Rabbit,2
+Radicchio,7
+Raspberries,1.5
+Relish,270
+Rhubarb,21
+Rice,3.5
+Ricotta,10
+"Roasted nuts (peanuts, cashews, almonds)",120
+Roasted red peppers,5
+Rosemary,10
+Rutabagas,21
+Rye,2
+Salad dressing,60
+Salami ,21
+Salsa,21
+Sausage,1.5
+Scallops,2
+Sesame oil,360
+Shortening,180
+"Shrimp, crayfish",1.5
+Soda,3
+Sorghum,7
+Sour cream,21
+Soy flour,90
+Soy meat substitutes,10
+Soy milk,10
+Spaghetti squash,10
+Spelt,3.5
+Spice/spices,720
+Squash,4
+Squid,2.5
+Star fruit,7
+String Cheese,14
+Sugar,720
+Sun dried tomatoes,14
+Surimi seafood,120
+Swiss chard,3
+Syrup,180
+Tahini,720
+Tamarind,90
+Tamarind paste,21
+Tapenade,14
+Taro,2.5
+Tea,180
+Teff,30
+Tempeh,21
+Textured soy protein,5
+Thai red curry paste,60
+Thyme,10
+Tofu,5
+Tuna,4
+Turducken,3.5
+Turkey,3.5
+Turkey ,3.5
+Turkey bacon,14
+Turnips,14
+Veal,4
+Vegan Cheddar Cheese,6
+Vegetable juice,30
+Vegetable oil sprays,720
+Vegetable soup,3
+Venison,2.5
+Watermelon,14
+Whipped cream,6
+Whipped topping,21
+Worcestershire sauce,720
+Yeast,120
+Yogurt,10
+Yuca/cassava,3
+Yuzu,7
+Yuzu juice,90
+Zucchini,10
+Beans and peas,3.5
+Broccoli and broccoli raab (rapini),4
+Frosting or icing,30
+"Papaya, mango, feijoa, passionfruit, casaha melon",5
+Rotisserie chicken,3.5
+"Shrimp, shellfish",1.5
+Vegetable stock/broth ,3.5
+Yams/sweet potatoes,90
+Chocolate hazlenut spread,360
+"Shucked clams, mussels, and oysters",3
+Re-hydrated textured soy protein,5
+Turkey parts,1.5
+Ground turkey or chicken,2.5
+Fresh lobster tails,3.5
+Whole wheat bread,10
+"""Genuine"" Maple syrup",360
+Chicken salad,3.5
+Egg substitutes,10
+Commercial bread products,10
+Fruit cocktail,180
+Hot dogs,14
+Black pepper,120
+Cornish Hens,3
+Crab legs,1.5
+Pudding mixes,1.5
+Raw kabobs with vegetables,1.5
+"Stuffed, raw chicken breasts",1.5
+Cooked poultry dishes,3.5
+Cinnamon rolls,720
+Coconut cream,4
+"Fresh clams, mussels, oysters",3.5
+"Fruits, dried",180
+Pine nuts,60
+Refried beans,3.5
+Seafood salads,2
+Apple cider vinegar,14
+Sunflower oil,360
+Cream pies,4
+Kiwi fruit,10
+"Cake, brownie, bread mixes",10
+Onion powder ,14
+Avocados,14
+Butter flavor,60
+Cereal or granola bars,3.5
+Cheese,30
+Luncheon meat or poultry,4
+Vegetables,30
+Broth,3.5
+Spaghetti sauce,10
+"Artichokes, whole",1.5
+Almond butter,60
+"Live clams, mussels, crab, and oysters",3.5
+Lobster tails,1.5
+"Carrots, parsnips",14
+Pasta,4
+Tomato paste,21
+Fresh pasta,4
+Toaster pastries,90
+Tortillas,14
+Canola oil,360
+Whole wheat flour,360
+Almond milk,360
+Cashew butter,60
+Tomato Sauce,5
+Tomato sauce,5
+Coconut flour,360
+"Pastries, danish",7
+Seasoning blends,720
+Coffee creamer,10
+Seafood,2
+Melons,10
+Pork rinds,4
+Canned goods,6
+Meat products,10
+Sauce mixes,720
+Sugar substitutes,10
+Coconuts,4
+Garlic powder,7
+Sesame seeds,360
+Soup mixes,3
+"Soup, stews",3
+Coconut milk,14
+Radishes,10
+Corn syrup,2
+Cucumbers,7
+Fruit,7
+Grapeseed oil,360
+Chili powder,360
+Ice pops,60
+Cheese Curds,7
+Cherry tomatoes,7
+Coconut oil,360
+Marinated vegetables,90
+"Fruit Juice in cartons, fruit drinks, punch",7
+Rice milk,3.5
+Nut oils,120
+Biscuit or pancake mix,3
+Peanuts,120
+Peanuts ,120
+Nacho cheese ,30
+Tomatoes,4
+Onions,14
+Pork roll,4
+Powdered milk,14
+Orange juice,360
+Citrus fruit,14
+Soy sauce or teriyaki sauce,720
+Sunflower seeds,720
+Dates,180
+Frozen potato products,30
+Pumpkin seeds,720
+Pumpkins,21
+Dairy filled eclairs,3
+Flavored or herb mixes,21
+Grapes,21
+Diet powder mixes and drink mixes,60
+"Cereal, dry mixes",3.5
+Dry gravy mixes,3.5
+Lime juice,30
+Gummy (fruit) snacks,7
+Salad dressings,60
+Soy crumbles and hot dogs,90
+Fruit pies,2
+"Stuffed, raw pork chops",1.5
+Corn on the cob,2
+Dry stuffing mix,30
+Puff pastry,7
+Cranberries,10
+Soy or rice beverage,3.5
+Strawberries,6
+Egg dishes,4
+Cooking wine,180
+Pie crust,2
+Variety meats,10
+Vinegar,360
+Apples,30
+"Juice, boxes",3.5
+Peppers,14
+Red wine,30
+Coconut water,360
+Prickly pear ,10
+Cherries,6
+"Fruit, cut",180
+Pitaya/dragon fruit,10
+"Cream sauces, milk solids",10
+Juice concentrates,1.5
+White wine,360
+Commercial cakes and muffins,90
+Cream liquors,30
+Eggplant,10
+Main dishes or meals,3.5
+Crackers,90
+Commercial brand vacuum-packed dinners,90
+Hard liquors,1.5
+Mushrooms,7
+Biscuits,5
+Kumquats,14
+Macadamias,180
+Frozen pretzels,3.5
+"Pancakes, waffles",3
+Pistachios,360
+Nuts,30
+Lentils,3.5
+Marshmallow crรจme,60
+Ready-to-bake pie crust,90
+Olives,3
+Pretzels,3.5
+Sausages,1.5
+Cashews,180
+Casseroles,3.5
+Pecans,270
+Anchovies,30
+Peas,3.5
+Base,1.5
+Dips,10
+Formula,180
+Lemongrass,10
+Liquid concentrate or ready-to-feed formula,10
+Oils,180
+Tapiocas,14
+Almonds ,360
+Dinners,5
+Frozen entrees,3.5
+Herbs,7
+Leeks,14
+Leftovers,3.5
+Retort pouches or boxes,3.5
+Salt,14
+Fruits,180
+Jars or pouches,1.5
+Macaroons,3.5
+Meats,4
+Nutrition supplement drinks,14
+Walnuts,90
+Bagel,21
+Bagel ,21
+Cornmeal,30
+Cornstarch,30
+Croutons,7
+Granola,10
+Instant breakfast drinks,4
+"Jams, jellies, and preserves",21
+Muffin,5
+Pineapple,30
+Plantains,21
+"Sherbet, sorbet",10
+Tube cans,360
+Applesauce,5
+Honey,720
+Water,360

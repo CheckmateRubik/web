@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF5F7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.dashboard {
+  margin-bottom: 20px;
+}
+
+.dashboard h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+#suggested-foods {
+  list-style: none;
+}
+
+#suggested-foods li {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+#suggested-foods li:hover {
+  background-color: #f1f1f1;
+}
+
+.search {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.suggestions {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-height: 200px;
+  overflow-y: auto;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+.suggestion {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.suggestion:hover {
+  background-color: #f1f1f1;
+}
+
+.items {
+  margin-top: 20px;
+}
+
+.item {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  position: relative;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.2s ease-in-out;
+  margin-bottom: 10px;
+}
+
+.item:hover {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.expiry {
+  margin-bottom: 10px;
+  color: #666;
+}
+
+.suggestion-item {
+  margin-bottom: 5px;
+}
+
+.delete-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-food-form {
+  display: none;
+  margin-bottom: 20px;
+}
+
+.add-food-form input[type="text"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+  background-color: #f5f5f5;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.quantity {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.item.expiring-1-day {
+  background-color: #ffb3ba !important;
+}
+
+.item.expiring-3-day {
+  background-color: #ffdfba !important;
+}
+
+.item.expiring-7-day {
+  background-color: #ffffba !important;
+}
+
+.item:not(.expiring-1-day):not(.expiring-3-day):not(.expiring-7-day) {
+  background-color: #baffc9 !important;
+}
+
+
